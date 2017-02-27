@@ -1,0 +1,2 @@
+# BallBounceProject-Dynamics_summer2014
+This is the code for my dynamics project of summer 2014. It simulates a bouncing ball with initial conditions and coefficient of restitution as parameters. RK4 is used for solving for the kinematics of the system, and my implementation is included in the repo. The collision code was written from scratch by me. The code was written in Matlab's scripting language in a non-object-oriented style.
